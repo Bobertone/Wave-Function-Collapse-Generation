@@ -1,5 +1,5 @@
 # Wave-Function-Collapse-Generation
-A project I did for my Advanced AI class that generates a screen of tiles placed next to each other in a way where only certain tiles can be next to one another.
+A project I did for my Advanced Game AI class that generates a screen of tiles placed next to each other in a way where only certain tiles can be next to one another.
 
 Use the GridManager object in the Hierarchy to change parameters of the tiles to be generated.
 You can change:
